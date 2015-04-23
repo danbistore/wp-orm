@@ -1,5 +1,5 @@
 <?php
-class WP_ORM {
+class WPORM {
     
     public static function insert($entity) {
         global $wpdb;
